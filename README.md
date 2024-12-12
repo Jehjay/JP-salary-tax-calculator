@@ -1,7 +1,4 @@
 # JP-salary-tax-calculator
-Python3
-
-# Total tax contribution calculator
 
 Japan salary Tax payer's total tax contribution is calculated from:
 
