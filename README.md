@@ -3,13 +3,13 @@ Python3
 
 # Total tax contribution calculator
 
-Japan salary Tax payer's total tax contribution.
+Japan salary Tax payer's total tax contribution is based:
 
-- National: National Pension Scheme Authority at 5%.
+- National Annual Income Tax.
 
-- Prefecture tax contribution: at 4%.
+- Prefecture Annual Income Tax at 4%.
 
-- Municipal tax contribution: at 6%.
+- Municipal Annual Income Tax at 6%.
 
 > [!NOTE]
 > Please make sure to install any libraries not already installed.
@@ -48,8 +48,8 @@ python3 Japanese_tax_calculator.py
 __RESULTS__
 <ul>
 <li><b> output in Terminal </b></li>
-<a href="" target="_blank"><img src="https://github.com/Jehjay/total_tax_contribution_calculator/blob/main/terminal_result.jpeg" width="100%" height="100%" ></a>
+<a href="" target="_blank"><img src="https://github.com/Jehjay/JP_tax_calculator/blob/main/terminal_result.jpeg" width="100%" height="100%" ></a>
 
 <li><b> PDF output in project folder </b></li>
-<a href="" target="_blank"><img src="https://github.com/Jehjay/total_tax_contribution_calculator/blob/main/pdf_output_result.jpeg" width="100%" height="100%" ></a>
+<a href="" target="_blank"><img src="https://github.com/Jehjay/JP_tax_calculator/blob/main/pdf_output_result.jpeg" width="100%" height="100%" ></a>
 </ul>
