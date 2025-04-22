@@ -50,3 +50,6 @@ __RESULTS__
 <li><b> PDF output in project folder </b></li>
 <a href="" target="_blank"><img src="https://github.com/Jehjay/JP-salary-tax-calculator/blob/main/pdf_output_result.jpeg" width="100%" height="100%" ></a>
 </ul>
+
+## **Developer**
+[Jehoram Mwila](https://www.linkedin.com/in/jehoram-m-1b1772124/), Data and MLOps Engineer
